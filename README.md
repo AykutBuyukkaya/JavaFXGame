@@ -54,5 +54,5 @@ After that you can simply run the project :)
 
 
 
-<strong>Note: This my first project on github. I know there are a lot of errors and mistaks exist both project and readme file. I'll be gratefull if you let me know about my mistakes. Thanks :)</strong>.
+<strong>Note: This my first project on github. I know there are a lot of errors and mistaks exist both project and readme file. I'll be grateful if you let me know about my mistakes. Thanks :)</strong>.
 
